@@ -10,25 +10,26 @@
     margin-left: 32vw;
 }
 .image2{
-    width: 60vw;
+    width: 55vw;
     height:100vh;
-    
+    padding-left: 5vw;
     background-image: url(https://images.squarespace-cdn.com/content/v1/5cfe60566ff04c000133906a/1560176038755-RF34RKOC19DE7J5DQ14R/ke17ZwdGBToddI8pDm48kFkP_nrMTFCSoRv1_oK4d817gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYo7o7EJsPUrsrBNO4uzdvSH40MvCxg49mzFbggiYp-6y-bVSSRJZztkCOpAxPA4NA/Florist0213-copy.jpg?format=750w);
     background-repeat: no-repeat;
     background-size:contain;
     background-position: left;
     margin: 0px;
     float: left;
+    margin-left: 5vw;
 }
 .image3{
-    width: 30vw;
+    width: 28vw;
     height: 100vh;
     background-image: url(https://images.squarespace-cdn.com/content/v1/5cfe60566ff04c000133906a/1560176137632-JFXCJHNLJG9RVJ5BUPV3/ke17ZwdGBToddI8pDm48kFkP_nrMTFCSoRv1_oK4d817gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYo7o7EJsPUrsrBNO4uzdvSH40MvCxg49mzFbggiYp-6y-bVSSRJZztkCOpAxPA4NA/Florist0173-copy.jpg?format=500w);
     background-position: right;
     background-size: contain;
-    margin: 0px;
     background-repeat: no-repeat;
     float: left;
+    
 }
 .text1{
     color: aliceblue;
@@ -36,7 +37,7 @@
     text-align: center;
 }
 .box4{
-    padding-left: 65vw;
+    padding-left: 70vw;
     width: 40vw;
     height: 20vh;
     color: chocolate;
@@ -135,5 +136,5 @@
 .icon-top{
     color: chocolate;
     float: left;
-    
+
 }
