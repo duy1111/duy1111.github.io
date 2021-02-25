@@ -1,0 +1,134 @@
+.vip1{
+    color: chocolate;
+    text-align: center;
+}
+.vip2{
+    width:  32vw;
+    color: aliceblue;
+    text-align: center;
+    font-size: calc((1.2 - 1) * 1.2vw + 1rem);
+    margin-left: 32vw;
+}
+.image2{
+    width: 60vw;
+    height:100vh;
+    
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5cfe60566ff04c000133906a/1560176038755-RF34RKOC19DE7J5DQ14R/ke17ZwdGBToddI8pDm48kFkP_nrMTFCSoRv1_oK4d817gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYo7o7EJsPUrsrBNO4uzdvSH40MvCxg49mzFbggiYp-6y-bVSSRJZztkCOpAxPA4NA/Florist0213-copy.jpg?format=750w);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: left;
+    margin: 0px;
+    float: left;
+}
+.image3{
+    width: 30vw;
+    height: 100vh;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5cfe60566ff04c000133906a/1560176137632-JFXCJHNLJG9RVJ5BUPV3/ke17ZwdGBToddI8pDm48kFkP_nrMTFCSoRv1_oK4d817gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYo7o7EJsPUrsrBNO4uzdvSH40MvCxg49mzFbggiYp-6y-bVSSRJZztkCOpAxPA4NA/Florist0173-copy.jpg?format=500w);
+    background-position: right;
+    background-size: contain;
+    margin: 0px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.text1{
+    color: aliceblue;
+    float: inline-start;
+    text-align: center;
+}
+.box4{
+    padding-left: 65vw;
+    width: 40vw;
+    height: 20vh;
+    color: chocolate;
+
+}
+.box5{
+    
+    width: 100vw;
+    height: 110vh;
+    background-color:bisque;
+}
+.image4{
+    width: 70vw;
+    height: 80vh;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5cfe60566ff04c000133906a/1587664228476-WBQT4YIO1EXLAYGVY9KF/ke17ZwdGBToddI8pDm48kJpktGCvks3Pd1z5ExK0jYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UddLxmH4O4TdgQxr1F4me8ZqUVV6TrDG_Ns713t9r783cpu-Zk6lKH88UbVvLWepNQ/Florist0089.jpg?format=750w);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.box6{
+    width: 50vw;
+    height: 70vh;
+    background-color: aliceblue;
+    float: left;
+    margin-top: 5vh;
+    margin-left: 42vw;
+}
+.vip3{
+    color:chocolate;
+    font-size: calc((2.6 - 1) * 1.2vw + 1rem);
+    margin-left: 5vw;
+    margin-top: 10vh;
+}
+.vip4{
+    margin-top: 7vh;
+    margin-left: 4vw;
+    color: chocolate;
+    font-size: calc((1.5 - 1) * 1.2vw + 1rem);
+    text-align:left;
+    margin-right: 5vw;
+}
+.box7{
+    margin-top: 8vh;
+    margin-left: 4vw;
+    width: 10vw;
+    height: 10vh;
+    background-color: chocolate;
+    font-size: calc((1.5 - 1) * 1.2vw + 1rem);
+    color: aliceblue;
+    padding-top: 3vh;
+    padding-left: 1vw;
+    box-sizing: border-box;
+}
+.vip5{
+    color: aliceblue;
+    font-size: calc((1.2 - 1) * 1.2vw + 1rem);
+    text-align:center;
+}
+.box8{
+    margin-top: 8vh;
+    margin-left: 35vw;
+    width: 17vw;
+    height: 8vh;
+    background-color:aliceblue;
+    font-size: calc((1.2 - 1) * 1.2vw + 1rem);
+    color: rgba(0, 0,0, 0.3);
+    padding-top: 2.3vh;
+    padding-left: 2.5vw;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 50px;
+}
+.box9{
+    margin-top: 9vh;
+    margin-left: 8px;
+    width: 7vw;
+    height: 7vh;
+    background-color:chocolate;
+    font-size: calc((1.2 - 1) * 1.2vw + 1rem);
+    color:aliceblue;
+    padding-top: 2vh;
+    padding-left: 2vw;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 50px;
+}
+.end{
+    
+    margin-left: 45vw;
+    font-size: calc(1rem);
+    color: antiquewhite;
+    text-align: center;
+}
