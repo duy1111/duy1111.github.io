@@ -1,0 +1,69 @@
+.box{
+    width: 46vw;
+    height: 60vh;
+    margin-left: 2vw;
+}
+.image1{
+    background-image: url(https://dashblog.hercules-design.com/wp-content/uploads/2015/08/11821769_968141786582004_587070589_n-525x348.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:inline-block;
+    box-sizing: border-box;
+    border: black;
+    border: 2px;
+}
+.image2{
+    background-image: url(https://dashblog.hercules-design.com/wp-content/uploads/2015/09/article-2395578-1B5307A0000005DC-306_634x440-525x348.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:inline-block;
+    box-sizing: border-box;
+    border: 2px;
+}
+.image3{
+    border: 2px;
+    background-image: url(https://dashblog.hercules-design.com/wp-content/uploads/2015/08/mija_23.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:inline-block;
+    box-sizing: border-box;
+    width: 47vw;
+    height: 70vh;
+    margin-left: 2vw;
+}
+.text1{
+    color: black;
+    margin: 0px;
+    width: 48vw;
+    text-align: center;
+    display:inline-block
+}
+.image4{
+    background-image: url(https://dashblog.hercules-design.com/wp-content/uploads/2014/11/MIJA_HEATWAVE_2-525x348.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:inline-block;
+    box-sizing: border-box;
+    border: 2px;
+}
+.image5{
+    background-image: url("https://dashblog.hercules-design.com/wp-content/uploads/2015/02/blair-eadie-atlantic-pacific-stripes-nyc-2-525x348.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:inline-block;
+    box-sizing: border-box;
+    border: 2px;
+}
+.image6{
+    background-image: url(https://dashblog.hercules-design.com/wp-content/uploads/2015/08/3U5A4797-525x348.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display:inline-block;
+    box-sizing: border-box;
+    border: 2px;
+    
+}
+h1:hover{
+    color: brown;
+}
+
