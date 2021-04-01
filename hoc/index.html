@@ -6,51 +6,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        
         .form{
-            background-color:aqua;
-            height: 50vh;
-            width: 50vw;
-            border: 5px;
-            border: black;
+            background-color:rgb(255, 0, 64);
+            top: 50%;
+            left: 50%;
+            width: 400px;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            padding-left: 100px;
         }
-        .chu{
-            font-size: 30px;
-        }
+        
         .button{
             background-color: green;
-            width: 10vw;
-            height: 10vh;
+            width: 7vw;
+            height: 8vh;
         }
         .fullname{
-            padding-top: 6vh;
-            padding-bottom: 1vh;
-            padding-left: 5vw;
+            width: 100%;
+            overflow: hidden;
+            padding: 8px 0;
+            margin: 8px 0;
+            font-size: 20px;
         }
         .ages{
-            
-            padding-bottom: 1vh;
-            padding-left: 5vw;
+            width: 100%;
+            overflow: hidden;
+            padding: 8px 0;
+            margin: 8px 0;
+            font-size: 20px;
         }
         .add{
-            padding-top: 2vh;
+            padding-top: 1vh;
             padding-bottom: 1vh;
-            padding-left: 7vw;
+            overflow: hidden;
+            margin-left: 100px;
+        }
+        .chu{
+            margin-left: 47px;
         }
     </style>
 </head>
 <body>
-    <form class="form" id="form">
+    <form class="form"  id="form">
+        
         <div class="fullname">
-            <label class="chu">Fullname</label>
+            <label>Fullname</label>
             <input type="text" id="full-name" placeholder="Nhap ten">
         </div>
+        
+        
         <div class="ages">
-            <label class="chu">age</label>
-            <input type ="number" id="age" placeholder="Nhap tuoi">
+            <label>age</label>
+            <input class ="chu"type ="number" id="age" placeholder="Nhap tuoi">
         </div>
+        
+           
         <div class="add" type="submit">
-            <button  class="button"><h1>    add    </h1></button>
+            <button  class="button"><h2>    add    </h2></button>
         </div>
+        
 
 
     </div>
