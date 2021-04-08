@@ -1,0 +1,22 @@
+
+.container{
+    display: flex;
+    background-color: #333333;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 200px;
+}
+.name{
+    font-size: 40px;
+    
+}
+
+.box{
+    background-color: aqua;
+    display: flex;
+    margin-left: 500px;
+}
+

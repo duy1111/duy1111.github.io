@@ -23,5 +23,5 @@ document.getElementById("form").onsubmit = (e) => {
     if(kiemtra(ten,tuoi)){
         document.getElementById("result").innerHTML += "Ten: " + ten + " ,tuoi: " + tuoi + "<br>";
     }
-    else alert('nhap sai'); 
+    
 }
